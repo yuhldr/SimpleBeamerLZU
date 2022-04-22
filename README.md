@@ -8,9 +8,10 @@
 
 > 根据 [ldr-simple-gray.cls](./ldr-simple-gray.cls) 里注释掉内容，换换字体会好看很多
 
-第一页|第四页
-:-:|:-:
-![第1页](./images/ppt1.jpg)|![第4页](./images/ppt4.jpg)
+预览|字体修改前|字体修改后|
+:-:|:-:|:-:
+1|![第1页](./images/ppt1.jpg)|![第4页](./images/ppt1_.jpg)
+4|![第1页](./images/ppt4.jpg)|![第4页](./images/ppt4_.jpg)
 
 
 还可以吧，star一下？
